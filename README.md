@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/letmeask-logo.svg" alt="Let Me Ask logo">
+  <img src=".github//Letmeask/blob/master/src/assets/images/logo.svg" alt="Let Me Ask logo">
 </div>
 
 ## Let Me Ask
