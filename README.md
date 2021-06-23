@@ -13,8 +13,6 @@
   Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.
 </h4>
 
-![Let Me Ask preview](.github/app-preview.png)
-
 ## Tecnologies
 
 This project was developed using cutting edge front-end technologies.
