@@ -8,12 +8,15 @@
 [![Languages](https://img.shields.io/github/languages/count/josepholiveira/letmeask?color=%23835AFD&style=flat-square)](#)
 [![Stars](https://img.shields.io/github/stars/marciobahia/letmeask?color=835AFD&style=flat-square)](https://github.com/marciobahia/letmeask/stargazers)
 
+
+Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.
+</h4>
+
+
 ![Let Me Ask preview](https://github.com/marciobahia/Letmeask/blob/master/src/assets/images/app-preview.png)
 <h4 align="center">
   
-  
-  Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.
-</h4>
+ 
 
 ## Tecnologies
 
