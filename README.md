@@ -43,8 +43,9 @@ $ git clone https://github.com/marciobahia/letmeask.git && cd letmeask
 **Follow the steps below**
 
 ```bash
-# Install the dependencies
-$ yarn
+
+  **Install the dependencies**
+$ npm install <package>@<version> 
   
   **Dependencies**
   
