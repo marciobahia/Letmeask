@@ -45,10 +45,28 @@ $ git clone https://github.com/marciobahia/letmeask.git && cd letmeask
 ```bash
 # Install the dependencies
 $ yarn
+  
+  **Dependencies**
+  
+    @testing-library/jest-dom": "^5.11.4
+    @testing-library/react": "^11.1.0
+    @testing-library/user-event": "^12.1.10
+    @types/jest": "^26.0.15
+    @types/node": "^12.0.0
+    @types/react": "^17.0.0
+    @types/react-dom": "^17.0.0
+    firebase": "^8.6.8
+    node-sass": "5.0.0
+    react": "^17.0.2
+    react-dom": "^17.0.2
+    react-router-dom": "^5.2.0
+    react-scripts": "4.0.3
+    typescript": "^4.1.2
+    web-vitals": "^1.0.1
 
 # Remember to configure your .env.local following the .env.exemple
 
-# Run the web server
+**Run the web server**
 $ yarn start
 ```
 
