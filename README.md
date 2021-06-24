@@ -20,7 +20,7 @@ Let Me Ask is a platform built to let you gather questions from your viewers dur
 
 ## Tecnologies
 
-This project was developed using the following technologies
+This project was developed using the following technologies:
 
 
 - [ReactJS](https://reactjs.org/)
