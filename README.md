@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/letmeask-logo.svg" alt="Let Me Ask logo">
+  <img src="https://github.com/marciobahia/Letmeask/blob/master/src/assets/images/logo.svg">
 </div>
 
 ## Let Me Ask
@@ -8,15 +8,19 @@
 [![Languages](https://img.shields.io/github/languages/count/josepholiveira/letmeask?color=%23835AFD&style=flat-square)](#)
 [![Stars](https://img.shields.io/github/stars/josepholiveira/letmeask?color=835AFD&style=flat-square)](https://github.com/josepholiveira/letmeask/stargazers)
 
-<h4 align="center">
-  Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.
+
+Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.
 </h4>
 
-![Let Me Ask preview](.github/app-preview.png)
+
+![Let Me Ask preview](https://github.com/marciobahia/Letmeask/blob/master/src/assets/images/app-preview.png)
+<h4 align="center">
+  
+ 
 
 ## Tecnologies
 
-This project was developed using cutting edge front-end technologies.
+This project was developed using the following technologies:
 
 
 - [ReactJS](https://reactjs.org/)
@@ -39,12 +43,32 @@ $ git clone https://github.com/josepholiveira/letmeask.git && cd letmeask
 **Follow the steps below**
 
 ```bash
-# Install the dependencies
-$ yarn
+
+    **Install the dependencies**
+  
+    $ npm install <package>@<version> 
+  
+  
+    **Dependencies**
+    @testing-library/jest-dom": "^5.11.4
+    @testing-library/react": "^11.1.0
+    @testing-library/user-event": "^12.1.10
+    @types/jest": "^26.0.15
+    @types/node": "^12.0.0
+    @types/react": "^17.0.0
+    @types/react-dom": "^17.0.0
+    firebase": "^8.6.8
+    node-sass": "5.0.0
+    react": "^17.0.2
+    react-dom": "^17.0.2
+    react-router-dom": "^5.2.0
+    react-scripts": "4.0.3
+    typescript": "^4.1.2
+    web-vitals": "^1.0.1
 
 # Remember to configure your .env.local following the .env.exemple
 
-# Run the web server
+**Run the web server**
 $ yarn start
 ```
 
@@ -55,5 +79,10 @@ The app will be available for access on your browser at `http://localhost:3000`
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+<<<<<<< HEAD
 
 Made with 💜 by Joseph Oliveira 👋 [Check out my LinkedIn](https://www.linkedin.com/in/joseph-oliveira-294a19165)
+=======
+[![Instagram Badge](https://img.shields.io/badge/-@marciobahia-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/marciobahia/)](https://www.instagram.com/bahiainspetor/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Marcio%20Sella%20Bahia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-gon%C3%A7sella-bahia/)](https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/) 
+>>>>>>> 0785c56bed43a63cf4443f037df3149035c91fea
