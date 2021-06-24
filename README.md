@@ -44,11 +44,12 @@ $ git clone https://github.com/marciobahia/letmeask.git && cd letmeask
 
 ```bash
 
-  **Install the dependencies**
-$ npm install <package>@<version> 
+    **Install the dependencies**
   
-  **Dependencies**
+    $ npm install <package>@<version> 
   
+  
+    **Dependencies**
     @testing-library/jest-dom": "^5.11.4
     @testing-library/react": "^11.1.0
     @testing-library/user-event": "^12.1.10
