@@ -45,31 +45,21 @@ $ git clone https://github.com/josepholiveira/letmeask.git && cd letmeask
 ```bash
 
     **Install the dependencies**
-  
-    $ npm install <package>@<version> 
-  
-  
-    **Dependencies**
-    @testing-library/jest-dom": "^5.11.4
-    @testing-library/react": "^11.1.0
-    @testing-library/user-event": "^12.1.10
-    @types/jest": "^26.0.15
-    @types/node": "^12.0.0
-    @types/react": "^17.0.0
-    @types/react-dom": "^17.0.0
-    firebase": "^8.6.8
-    node-sass": "5.0.0
-    react": "^17.0.2
-    react-dom": "^17.0.2
-    react-router-dom": "^5.2.0
-    react-scripts": "4.0.3
-    typescript": "^4.1.2
-    web-vitals": "^1.0.1
+
+# Access the project folder on your terminal/cmd
+$ cd letmeask
+
+# Install the dependencies
+$ yarn install
+# ou npm install
+
+# Run the application in development mode
+$ yarn start
+# ou npm run start
 
 # Remember to configure your .env.local following the .env.exemple
 
-**Run the web server**
-$ yarn start
+
 ```
 
 The app will be available for access on your browser at `http://localhost:3000`
