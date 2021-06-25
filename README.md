@@ -37,7 +37,7 @@ This project was developed using the following technologies:
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/letmeask.git && cd letmeask
+$ git clone https://github.com/marciobahia/Letmeask.git
 ```
 
 **Follow the steps below**
